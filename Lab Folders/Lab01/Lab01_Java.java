@@ -13,6 +13,7 @@ void testMethod2()
   {
   // First command x = //to be filled in by student
   // Second command 
+  // Fourth command (lab)
   // Third command
 }
 
@@ -21,3 +22,4 @@ void main()
     testMethod1();
     testMethod2();
 }
+
